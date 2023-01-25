@@ -1,0 +1,4 @@
+.para1{color:rgb(216, 0, 112);position: absolute;top: 100px;left: 600px; zIndex:0; background-color: rgb(43, 255, 0);}
+.para2{color:rgba(102, 61, 7, 0.521);position: absolute;top: 140px;left: 650px; zIndex:0; background-color: rgba(55, 222, 150, 0.86);}
+.para3{color:rgba(228, 127, 234, 0.612);position: absolute;top: 180px;left: 700px; zIndex:0; background-color: rgb(103, 103, 20);}
+.para4{color:white;position: absolute;top: 220px;left: 750px; zIndex:0; background-color: rgba(206, 30, 98, 0.77);}
